@@ -1,0 +1,10 @@
+numpy
+pandas 
+seaborn
+flask
+scikit-learn
+catboost
+dill
+xgboost
+
+-e . #create package in the current directory
